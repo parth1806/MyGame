@@ -305,6 +305,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridLayoutGroup: {fileID: 1864406368}
   cardPrefab: {fileID: 9077793210647181121, guid: c8496902c48323242adaef4302a1fa4e, type: 3}
+  cardSprites:
+  - {fileID: 21300000, guid: e7dc73feb8589e245a6dbf26f07b3af0, type: 3}
+  - {fileID: 21300000, guid: ef5f902f57fb3774aa2079216acdbd0d, type: 3}
+  - {fileID: 21300000, guid: b76dcd4bd5f22db469229c2cb6a2283d, type: 3}
+  - {fileID: 21300000, guid: ae8c28d1f5cdfc14da26c09ead9320a7, type: 3}
+  - {fileID: 21300000, guid: 20595f7ef55131746b40fc7619140716, type: 3}
+  - {fileID: 21300000, guid: 912e253c8f8aa6747a1e36f0b1ca0749, type: 3}
+  - {fileID: 21300000, guid: e7999b40e512e8e4f889425dd6533fb1, type: 3}
+  - {fileID: 21300000, guid: 3728eb6c6a3427a409e23c5e6e99231e, type: 3}
+  - {fileID: 21300000, guid: 441cbf0d6176a144b854d3c951cb1d76, type: 3}
+  - {fileID: 21300000, guid: 710f4855c20d20d4e80e0a4e2c2a46d3, type: 3}
+  - {fileID: 21300000, guid: 378dd0d9dad970146a97a6201c3d13a1, type: 3}
+  - {fileID: 21300000, guid: ba0df25d355cf6145a14cd0724980de1, type: 3}
+  - {fileID: 21300000, guid: a162cdff42da74a4496918eaf2cd99ff, type: 3}
+  - {fileID: 21300000, guid: ec35b5a10ddc61c4faddecd41ecffea9, type: 3}
+  - {fileID: 21300000, guid: dd09365b893ae1d409e236607ef4a399, type: 3}
 --- !u!4 &546137230
 Transform:
   m_ObjectHideFlags: 0
